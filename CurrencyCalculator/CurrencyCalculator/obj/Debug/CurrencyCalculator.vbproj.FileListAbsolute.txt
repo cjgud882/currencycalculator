@@ -1,0 +1,11 @@
+C:\Users\cjgud882\source\repos\CurrencyCalculator\CurrencyCalculator\bin\Debug\CurrencyCalculator.exe.config
+C:\Users\cjgud882\source\repos\CurrencyCalculator\CurrencyCalculator\bin\Debug\CurrencyCalculator.exe
+C:\Users\cjgud882\source\repos\CurrencyCalculator\CurrencyCalculator\bin\Debug\CurrencyCalculator.pdb
+C:\Users\cjgud882\source\repos\CurrencyCalculator\CurrencyCalculator\bin\Debug\CurrencyCalculator.xml
+C:\Users\cjgud882\source\repos\CurrencyCalculator\CurrencyCalculator\obj\Debug\CurrencyCalculator.vbprojAssemblyReference.cache
+C:\Users\cjgud882\source\repos\CurrencyCalculator\CurrencyCalculator\obj\Debug\CurrencyCalculator.Form1.resources
+C:\Users\cjgud882\source\repos\CurrencyCalculator\CurrencyCalculator\obj\Debug\CurrencyCalculator.Resources.resources
+C:\Users\cjgud882\source\repos\CurrencyCalculator\CurrencyCalculator\obj\Debug\CurrencyCalculator.vbproj.GenerateResource.cache
+C:\Users\cjgud882\source\repos\CurrencyCalculator\CurrencyCalculator\obj\Debug\CurrencyCalculator.exe
+C:\Users\cjgud882\source\repos\CurrencyCalculator\CurrencyCalculator\obj\Debug\CurrencyCalculator.xml
+C:\Users\cjgud882\source\repos\CurrencyCalculator\CurrencyCalculator\obj\Debug\CurrencyCalculator.pdb
